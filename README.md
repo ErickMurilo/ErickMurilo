@@ -2,7 +2,7 @@
 - 👀 I’m interested in finish the projetc
 - 🌱 I’m currently learning python🐍
 - ✉️ erickmuriloesmaniotto@gmail.com 
-- ⚡ Fun fact: i play csgo
+
 
 <!---
 ErickMurilo/ErickMurilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
