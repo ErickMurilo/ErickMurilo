@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ErickMurilo
-- 👀 I’m interested in finish the projetc
-- 🌱 I’m currently learning python🐍
-- ✉️ erickmuriloesmaniotto@gmail.com 
+Erick Murilo
 
+Security Analyst / SOC Analyst
+Computer Engineering undergraduate 9/10
 
-<!---
-ErickMurilo/ErickMurilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+certificates
+google cybersecurity
+cisco basics networks
+wireshark network analysis
+
+contacts
+erickmuriloesmaniotto@gmail.com 
+www.linkedin.com/in/erick-murilo-esmaniotto-corniski-582a27369
