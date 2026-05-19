@@ -4,16 +4,16 @@ Security Analyst / SOC Analyst
 
 Computer Engineering undergraduate 9/10
 
-certificates
+# certificates
 
-google cybersecurity
+- google cybersecurity
 
-cisco basics networks
+- cisco basics networks
 
-wireshark network analysis
+- wireshark network analysis
 
-contacts
+# contacts
 
-erickmuriloesmaniotto@gmail.com 
+- erickmuriloesmaniotto@gmail.com 
 
-www.linkedin.com/in/erick-murilo-esmaniotto-corniski-582a27369
+- www.linkedin.com/in/erick-murilo-esmaniotto-corniski-582a27369
