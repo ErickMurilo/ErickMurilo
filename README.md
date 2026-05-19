@@ -4,6 +4,7 @@ Security Analyst / SOC Analyst
 Computer Engineering undergraduate 9/10
 
 certificates
+
 google cybersecurity
 cisco basics networks
 wireshark network analysis
