@@ -4,7 +4,7 @@ Security Analyst / SOC Analyst
 
 Computer Engineering undergraduate 9/10
 
-# Certificates
+### Certificates
 
 - Google Cybersecurity
 
@@ -12,7 +12,7 @@ Computer Engineering undergraduate 9/10
 
 - Wireshark Network Analysis
 
-# Contacts
+### Contacts
 
 - erickmuriloesmaniotto@gmail.com 
 
