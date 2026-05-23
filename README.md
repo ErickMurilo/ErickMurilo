@@ -1,6 +1,6 @@
 Erick Murilo
 
-Security Analyst / SOC Analyst
+Cybersecurity Student | SOC Analyst | Network Traffic Analysis
 
 Computer Engineering undergraduate 9/10
 
@@ -8,7 +8,7 @@ Computer Engineering undergraduate 9/10
 
 - Google Cybersecurity
 
-- Cisco Basics Networks
+- Cisco Networking Basics
 
 - Wireshark Network Analysis
 
