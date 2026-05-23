@@ -17,3 +17,5 @@ Computer Engineering undergraduate 9/10
 - erickmuriloesmaniotto@gmail.com 
 
 - www.linkedin.com/in/erick-murilo-esmaniotto-corniski-582a27369
+
+- (41) 99501-9440
