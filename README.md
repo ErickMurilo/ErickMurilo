@@ -2,7 +2,7 @@ Erick Murilo
 
 Cybersecurity Student | SOC Analyst | Network Traffic Analysis
 
-Computer Engineering undergraduate 9/10
+Computer Engineering undergraduate 10/10
 
 ### Certificates
 
@@ -18,4 +18,4 @@ Computer Engineering undergraduate 9/10
 
 - www.linkedin.com/in/erick-murilo-esmaniotto-corniski-582a27369
 
-- (41) 99501-9440
+- +55 (41) 99501-9440
